@@ -5,3 +5,6 @@ IdM Search Tool idmsearchtool-dsag.3.0.5.zip
 IdM GIT Integration git-export-0.1.zip
 * export IdM configuration and push it to a GIT repository
 * supporting oracle. Further versions in progress
+DISPATCHER_START_CONTROL.zip
+* example for start control of dispatcher in a seperated environment
+* based on linux, shell script using ksh
