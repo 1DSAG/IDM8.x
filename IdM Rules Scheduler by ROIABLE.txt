@@ -1,0 +1,13 @@
+IdM Rules Scheduler by ROIABLE
+An easy to use web-based application that allows you to view and manage your SAP IdM job rules.
+Until now the only option to do that was to follow an SAP Note and make changes directly in the database.
+Now, using this tool, you will be able to:
+ - view standard SAP and custom rules and job chains
+ - create new rules and job chains
+ - visualize job executions
+ - get details about job rule assignments
+ - supported types -> "After another job", "On demand", "Frequency" and "Specific Time"
+ 
+Tested on all SAP IdM supported databases from SAP IdM SP6 onwards.
+No additional infrastructure needed, simply install on the same SAP NetWeaver where SAP IdM UI is running.
+Request your free copy here -> https://forms.office.com/Pages/ResponsePage.aspx?id=CaE3uF0QQES-nhnmhlUhtLuaLOJG-slGk_To5NfgNEtUNVlNNzhWOTNCTVQzM0RJS1ZXTFZBODBXTi4u
