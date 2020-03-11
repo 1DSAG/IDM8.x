@@ -8,3 +8,5 @@ IdM GIT Integration git-export-0.1.zip
 DISPATCHER_START_CONTROL.zip
 * example for start control of dispatcher in a seperated environment
 * based on linux, shell script using ksh
+IdM Rules Schdeuler by ROIABLE.txt
+* Information on how to get the "IdM Rules Schdeuler"
