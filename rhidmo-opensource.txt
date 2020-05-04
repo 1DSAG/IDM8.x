@@ -1,0 +1,5 @@
+Rhidmo®
+
+Rhidmo® is a generic implementation of the SAP® Identity Management Extension Framework. It enables developers to build custom SAP® IDM extensions in JavaScript instead of Java, directly from the SAP® Identity Management Developer Studio. This ensures a fast turn around during the development phase of the project. A lot of the standard SAP® IDM built in custom functions are provided as well, giving the IDM developer a familiar environment to enhance the user experience.
+
+It can be freely downloaded under the Apache 2.0 Open Source license from https://github.com/foxysoft/idm-extension-rhidmo. Consulting services are available on request. Please check the link for details.
