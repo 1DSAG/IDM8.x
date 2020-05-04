@@ -13,3 +13,6 @@ DISPATCHER_START_CONTROL.zip
 
 IdM Rules Scheduler by ROIABLE.txt
 * Information on how to get the "IdM Rules Scheduler"
+
+IdM Generic Validation Extension rhidmo-opensource.txt
+* Information on how to get "Rhidmo"
