@@ -1,4 +1,5 @@
-IdM Search Tool idmsearchtool-dsag.3.0.5.zip
+IdM Search Tool idmsearchtool-dsag.zip
+* updated version 3.2.1
 * used to search IdM configuration
 * supports Oracle, DB2 and MSSQL server (not fully tested)
 * please provide any changes back to zickner@mediamarktsaturn.com
